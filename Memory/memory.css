@@ -1,0 +1,24 @@
+h1 {
+	text-align: center;
+}
+
+div#board{
+	background:#2b879e;
+	border:#999 1px solid;
+	width:800px;
+	height:540px;
+	padding:24px;
+	margin:0px auto;
+}
+div#board > div{
+	background: #f2e8c4;
+	border:#f2e8c4 0px solid;
+	width:71px;
+	height:71px;
+	float:left;
+	margin:10px;
+	padding:20px;
+	font-size:64px;
+	cursor:pointer;
+	text-align:center;
+}
